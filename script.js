@@ -20,12 +20,12 @@ document.addEventListener('DOMContentLoaded', function() {
         name: "Todo List",
         url: "https://nafanj.github.io/todo-list/",
         icon: "fa-check"
-      }*/,
+      },
       {
         name: "Bouncy Ball",
         url: "https://nafanj.github.io/bouncing-ball/",
         icon: "fa-volleyball"
-      },
+      }*/,
       {
         name: "Etch-a-Sketch",
         url: "https://nafanj.github.io/etch-a-sketch/",
