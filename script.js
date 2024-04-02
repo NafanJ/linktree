@@ -15,8 +15,8 @@ document.addEventListener('DOMContentLoaded', function() {
         name: "Library",
         url: "https://nafanj.github.io/library/",
         icon: "fa-book"
-      }/*,
-      {
+      },
+      /*{
         name: "Todo List",
         url: "https://nafanj.github.io/todo-list/",
         icon: "fa-check"
@@ -25,7 +25,12 @@ document.addEventListener('DOMContentLoaded', function() {
         name: "Bouncy Ball",
         url: "https://nafanj.github.io/bouncing-ball/",
         icon: "fa-volleyball"
-      }*/,
+      },*/
+      {
+        name: "CV Builder",
+        url: "https://main.d3v7pisq4kxjk5.amplifyapp.com/",
+        icon: "fa-regular fa-file"
+      },
       {
         name: "Etch-a-Sketch",
         url: "https://nafanj.github.io/etch-a-sketch/",
