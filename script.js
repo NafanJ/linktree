@@ -11,11 +11,11 @@ document.addEventListener('DOMContentLoaded', function() {
         url: "https://nafanj.github.io/snake/",
         icon: "fa-staff-snake"
       },
-      {
+      /*{
         name: "Library",
         url: "https://nafanj.github.io/library/",
         icon: "fa-book"
-      },
+      },*/
       /*{
         name: "Todo List",
         url: "https://nafanj.github.io/todo-list/",
@@ -36,11 +36,11 @@ document.addEventListener('DOMContentLoaded', function() {
         url: "https://nafanj.github.io/etch-a-sketch/",
         icon: "fa-pen"
       },
-      {
+      /*{
         name: "Company Orders",
         url: "https://nafanj.github.io/order-shipping/",
         icon: "fa-box"
-      },
+      },*/
       {
         name: "AI Image Generator",
         url: "https://nafanj.github.io/ai-image-generator/",
